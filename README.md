@@ -200,5 +200,6 @@ Airbnb-Price-Analysis-Seattle/
 │   │   ├── cleaned_listings.csv
 │   │   └── cleaned_reviews.csv
 ├── Airbnb_Price_Analysis_Seattle.ipynb
+├── Airbnb_Price_Analysis_Seattle_Report.docx
 ├── README.md
 └── LICENSE
